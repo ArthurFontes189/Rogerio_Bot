@@ -1,4 +1,3 @@
-*.env
-src/__pycache__
-handler/__pycache__
-utils/__pycache__
+.env
+__pycache__/
+**/__pycache__/
